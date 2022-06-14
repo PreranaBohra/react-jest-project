@@ -1,0 +1,14 @@
+.Login-container{
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 5% 25%;
+}
+input{
+    margin:10px 2px;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    margin: 0 auto;
+}
